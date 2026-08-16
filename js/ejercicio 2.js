@@ -1,1 +1,1 @@
-document.write ('Hola mundo Hellou word noce ingles')
+document.write ('Hola mundo Hellou word noce ingles');
